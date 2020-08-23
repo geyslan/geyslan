@@ -2,6 +2,7 @@
 
 [xkcd: Lisp Cycles](https://xkcd.com/297/)
 
+<!--
 ---
 
 ![](https://imgs.xkcd.com/comics/real_programmers.png)
@@ -9,7 +10,7 @@
 [xkcd: Real Programmers](https://xkcd.com/378/)
 
 
-<!--
+
 **geyslan/geyslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
