@@ -1,5 +1,5 @@
 <br/><br/>
-<p align="center"><a href="https://github.com/ashleymcnamara/gophers"><img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/RickAndMorty.png" alt="Rick and Morty" width="300"/><br/>Rick and Morty</a></p>
+<p align="center"><a href="https://github.com/ashleymcnamara/gophers"><img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/RickAndMorty.png" alt="Rick and Morty" width="300"/><br/>Ashley McNamara: Gophers</a></p>
 <br/>
 <p align="center"><a href="https://xkcd.com/297/"><img src="https://imgs.xkcd.com/comics/lisp_cycles.png" alt="Lisp Cycles"/><br/>xkcd: Lisp Cycles</a></p>
 
