@@ -1,28 +1,12 @@
-<br/><br/>
-<p align="center"><a href="https://github.com/ashleymcnamara/gophers"><img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/RickAndMorty.png" alt="Rick and Morty" width="300"/><br/>Ashley McNamara: Gophers</a></p>
-<br/>
-<p align="center"><a href="https://xkcd.com/297/"><img src="https://imgs.xkcd.com/comics/lisp_cycles.png" alt="Lisp Cycles"/><br/>xkcd: Lisp Cycles</a></p>
+## Hello, World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> <a href="https://www.linkedin.com/in/geyslan/"><img align="right" alt="Geyslan's Linkedin" width="2%" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a><a href="https://twitter.com/ggeyslan"><img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Twitter" title="Twitter" width="2%"></a>
 
+<p align="center">
+  <img align="center" src="https://ebpf.io/static/logo-big-9cf8920e80cdc57e6ea60825ebe287ca.png" alt="ebpf.io" width="55%">
+</p>
 
-<!--
 ---
 
-![](https://imgs.xkcd.com/comics/real_programmers.png)
-
-[xkcd: Real Programmers](https://xkcd.com/378/)
-
-
-
-**geyslan/geyslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/800px-C_Programming_Language.svg.png" alt="C" width="10%">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Golang" width="20%">
+</p>
