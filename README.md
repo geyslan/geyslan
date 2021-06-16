@@ -21,8 +21,8 @@
 
 ```asm
     push 60
-    pop %rax
-    xor %edi, %edi
+    pop rax
+    xor edi, edi
     syscall
 ```
 
