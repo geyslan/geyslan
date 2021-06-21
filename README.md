@@ -5,9 +5,14 @@
 
 ---
 
-
+<!--
 <p align="center">
   <img align="center" src="https://ebpf.io/static/logo-big-9cf8920e80cdc57e6ea60825ebe287ca.png" alt="ebpf.io" width="40%">
+</p>
+-->
+
+<p align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/3372117/122766948-7d98b380-d278-11eb-8b68-dc5d9bac0915.png" alt="ebpf.io" width="40%">
 </p>
 
 
