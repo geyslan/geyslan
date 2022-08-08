@@ -36,5 +36,5 @@
   0
   </br>
   <a href="https://www.linkedin.com/in/geyslan/"><img align="center" alt="Geyslan's Linkedin" width="2%" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
-  <a href="https://twitter.com/ggeyslan"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Twitter" title="Twitter" width="2%"></a>  
+  <a href="https://twitter.com/glangreg"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="Twitter" title="Twitter" width="2%"></a>  
 </p>
