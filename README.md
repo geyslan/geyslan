@@ -19,7 +19,7 @@
 
 <p align="center">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Golang" width="13%">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/800px-C_Programming_Language.svg.png" alt="C" width="6%">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/C1stEdition.svg/3840px-C1stEdition.svg.png" alt="C" width="5%">
   <img align="center" src="https://hackr.io/tutorials/learn-assembly-language/logo/logo-assembly-language?ver=1603208610" alt="ASM" width="6%">
 </p>
 
